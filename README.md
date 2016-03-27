@@ -1,7 +1,10 @@
-Leaflet.Geocoding
-==================
+Leaflet.Geocoding plugin
+========================
 
 Support OpenStreetMap, Google, Bing, Esri, GeoNames, Nokia, Yandex, RuCadastre geocoding API
 
-[Control page](http://olegsmith.github.com/leaflet.geocoding/ "Leaflet.Geocoding")
+[Control page](https://github.com/spatialhast/leaflet.geocoding/ "Leaflet.Geocoding")
 
+> The MIT License
+> 
+> Copyright (c) 2013 Oleg Smith

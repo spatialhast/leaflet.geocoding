@@ -202,11 +202,12 @@ L.Geocoding = L.Control.extend({
             , cb = arg.cb;
 
         $.ajax({
-            url : 'http://ws.geonames.org/searchJSON'
+            url : 'http://api.geonames.org/searchJSON'
             , dataType : 'jsonp'
             , data : {
                 'q' : query
                 , 'style' : 'full'
+                , 'username' : 'cbi.test'
                 , 'maxRows' : '1'
             }
         })
